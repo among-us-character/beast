@@ -85,7 +85,7 @@ function Footer() {
           <div className="footerheading">Information</div>
           <ul>
             <li><i className="fa-solid fa-phone"></i> 0307-5013427</li>
-            <li><i className="fa-regular fa-envelope"></i> wahab20@gamil.com</li>
+            <li><i className="fa-regular fa-envelope"></i> wahabilyas206@gamil.com</li>
             <li><i className="fa-solid fa-location-dot"></i> Faisalabad</li>
           </ul>
         </div>
