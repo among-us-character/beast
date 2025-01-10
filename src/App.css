@@ -1250,9 +1250,40 @@
              overflow: hidden;
              margin-left:10px;
              margin-bottom: 30px;
-              border-radius: 30px;
+              border-radius: 20px;
 
                 }
+                .textarea
+                {
+                  
+                  display: flex;
+                      flex-direction: column;
+                      margin-left: 5px;
+                      align-items: center;
+                      justify-content: center;
+                }
+                .footerimglo{
+                  width: 200px;
+                  height: 200px;
+                 
+                }
+                .mainnavbar{
+                  list-style-type: none;
+                    display: flex;
+                    background-color: white;
+                    padding: 10px 10px;
+                    margin: 0px;
+                    justify-content:flex-start;
+                    align-items: center;
+                }
+                .footermain
+      {
+        background-color: #f3f4f6;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        padding-top: 15px;
+      height: 250px;
+      }
           }
-          
           
