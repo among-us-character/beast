@@ -1219,7 +1219,7 @@
           {
             text-decoration: none; 
           }
- @media only screen and (max-width: 430px) {
+ @media only screen and (max-width: 440px) {
             /* Styles for .home-container */
             .home-container {
               background-color: lightblue;
